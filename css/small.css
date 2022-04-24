@@ -6,13 +6,13 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 30px; 
-    background-color: #f9ceee;
+    background-color: #80b3ff;
     color: #031900;
     margin-bottom: 0px; 
 }
 header img {
     width:100px; 
-    border: ridge #e0cdff 8px; 
+    border: ridge #ccccff 8px; 
 }
 .navigation {
     list-style-type:none; 
@@ -25,7 +25,7 @@ nav{
     margin-bottom: 0px;
 }
 nav li:hover {
-    background-color: #9fe8f9; 
+    background-color: #4d94ff; 
 }
 nav li a{
     text-decoration: none;
@@ -39,7 +39,7 @@ li {
     text-align: center;
 }
 .active {
-    background-color: #bcfeb4; 
+    background-color: #cce0ff; 
     color:black; 
 }
 .heroimg {
@@ -85,14 +85,14 @@ h2 {
     display:block; 
 }
 footer{
-    background-color:#9fe8f9;
+    background-color:#80b3ff;
     padding:20px;
     text-align: center;
     margin-right: 10px;
     margin-left: 10px; 
 }
 .contactinfo{
-    background-color: #125f85;
+    background-color: #80b3ff;
     margin-top:20px;
     padding:20px;
     margin-right: 10px;
