@@ -6,7 +6,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 30px; 
-    background-color: #00c000;
+    background-color: #002900;
     color: white;
     margin-bottom: 0px; 
 }
@@ -85,11 +85,12 @@ h2 {
     display:block; 
 }
 footer{
-    background-color:#00c000;
+    background-color:#002900;
     padding:20px;
     text-align: center;
     margin-right: 10px;
     margin-left: 10px; 
+    color: white;
 }
 .contactinfo{
     background-color: #80b3ff;
