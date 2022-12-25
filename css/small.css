@@ -6,7 +6,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 30px; 
-    background-color: #80b3ff;
+    background-color: #002700;
     color: #031900;
     margin-bottom: 0px; 
 }
@@ -39,7 +39,7 @@ li {
     text-align: center;
 }
 .active {
-    background-color: #cce0ff; 
+    background-color: #b30000; 
     color:black; 
 }
 .heroimg {
