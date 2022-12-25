@@ -25,7 +25,7 @@ nav{
     margin-bottom: 0px;
 }
 nav li:hover {
-    background-color: #cd0000; 
+    background-color: #007500; 
 }
 nav li a{
     text-decoration: none;
@@ -39,7 +39,7 @@ li {
     text-align: center;
 }
 .active {
-    background-color: #00c100; 
+    background-color: #cd0000; 
     color:black; 
 }
 .heroimg {
