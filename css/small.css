@@ -6,7 +6,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 30px; 
-    background-color: #002900;
+    background-color:#ADD8E6;
     color: white;
     margin-bottom: 0px; 
 }
@@ -25,7 +25,7 @@ nav{
     margin-bottom: 0px;
 }
 nav li:hover {
-    background-color: #007500; 
+    background-color: #87C1FF; 
 }
 nav li a{
     text-decoration: none;
@@ -39,7 +39,7 @@ li {
     text-align: center;
 }
 .active {
-    background-color: #cd0000; 
+    background-color: #8aecff; 
     color:black; 
 }
 .heroimg {
